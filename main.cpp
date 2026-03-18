@@ -61,8 +61,8 @@ int main() {
 
         cout << "**********************\n";
         cout << "1 - losowe\n";
-        cout << "2 - losowe rosnace\n";
-        cout << "3 - losowe malejace\n";
+        cout << "2 - rosnace\n";
+        cout << "3 - malejace\n";
         cout << "4 - stale\n";
         cout << "5 - A-ksztaltne\n";
         cout << "**********************\n";
